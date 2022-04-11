@@ -5,7 +5,7 @@
 
 ## EXPERIENCE
 
-IT Solutions, January, 2021 – present
+IT Solutions, January, 2022 – present
 
 Flutter Developer
 
@@ -19,7 +19,13 @@ Flutter Developer
 
 *Programming languages*: Dart, Java, C/C++
 
-*Tools*: Flutter, SQLite, MySQL 
+*Tools*: Flutter(Unit Tests, State Management(BLoC, Cubit), OOP, Clean Architecture, Dependency Injection)
+
+## LANGUAGE PROFICIENCY
+
+* Uzbek - native
+* Russian - fluent
+* English - fluent
 
 ## EDUCATION
 
