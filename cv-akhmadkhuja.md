@@ -1,7 +1,7 @@
 # Akhmadkhuja Ibrokhimov
 
 ## Junior Flutter Developer | Tashkent, Uzbekistan
-[Github](https://github.com/a-ibrkh) | [LinkedIn](www.linkedin.com/in/akhmadkhuja-ibrokhimov-562554237) | [Email](axmadxojaibrohimov@gmail.com)
+[Github](https://github.com/a-ibrkh) | [LinkedIn](https://www.linkedin.com/in/akhmadkhuja-ibrokhimov-562554237/) | [Email](axmadxojaibrohimov@gmail.com)
 
 ## EXPERIENCE
 
