@@ -31,4 +31,4 @@ Flutter Developer
 
 Inha University in Tashkent, 2020 – Present
 
-BSc in Computer Science
+BSc in Computer Science - Information and Communication Engineering
