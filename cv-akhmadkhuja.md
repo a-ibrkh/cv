@@ -19,7 +19,7 @@ Flutter Developer
 
 *Programming languages*: Dart, Java, C/C++
 
-*Tools*: Flutter(State Management(BLoC, Cubit), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, HTTP, JSON, WebSocket, Unit Tests), AppStore, PlayMarket
+*Tools*: Flutter(State Management(BLoC, Cubit), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, HTTP, JSON, WebSocket, Unit Tests), App Store Connect, Play Console
 
 ## LANGUAGE PROFICIENCY
 
