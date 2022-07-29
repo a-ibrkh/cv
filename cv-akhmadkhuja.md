@@ -15,6 +15,7 @@ Mobile Developer(Flutter)
 
 * Designed UI and developed Mobile Applications for 1 project and released to Store.
 
+
 Udevs, April 2022 - present
 
 Mobile Developer(Flutter)
