@@ -34,7 +34,7 @@ Mobile Developer(Flutter)
 
 * Programming languages: Dart, Java, C/C++
 
-* Tools: Flutter(State Management(BLoC, Cubit, GetX), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, Rest API HTTP, Dio, JSON, WebSocket, Unit Tests), App Store Connect, Play Console
+* Tools: Flutter(State Management(BLoC, Cubit, GetX), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, Rest API, HTTP, Dio, JSON, WebSocket, Unit Tests), App Store Connect, Play Console
 
 ## LANGUAGE PROFICIENCY
 
