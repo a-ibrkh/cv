@@ -1,19 +1,31 @@
 # Akhmadkhuja Ibrokhimov
 
-## Junior Flutter Developer | Tashkent, Uzbekistan
+## Flutter Developer | Tashkent, Uzbekistan
 [Github](https://github.com/a-ibrkh) | [LinkedIn](https://www.linkedin.com/in/akhmadkhuja-ibrokhimov-562554237/) | [Email](axmadxojaibrohimov@gmail.com)
 
 ## EXPERIENCE
 
-IT Solutions, January, 2022 – present
+IT Solutions, January 2022 – April 2022
 
-Flutter Developer
+Mobile Developer(Flutter)
 
 * Developed Mobile Application for iOS and Android on Flutter cross-platform UI Engine.
 
 * Wrote high-quality and scalable code using BLoC design pattern.
 
-* Designed UI and developed Mobile Applications for 1 project.
+* Designed UI and developed Mobile Applications for 1 project and released to Store.
+
+Udevs, April 2022 - present
+
+Mobile Developer(Flutter)
+
+* Developed Mobile Application for iOS, Android and Android TV on Flutter cross-platform UI Engine.
+
+* Wrote high-quality and scalable code using GetX and BLoC design pattern.
+
+* Cooperated with backend team to find out better solutions and reach the best performance
+
+* Developed and released mobile application for iOS and Android.
 
 ## TECHNICAL SKILLS
 
@@ -21,7 +33,7 @@ Flutter Developer
 
 * Programming languages: Dart, Java, C/C++
 
-* Tools: Flutter(State Management(BLoC, Cubit), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, HTTP, JSON, WebSocket, Unit Tests), App Store Connect, Play Console
+* Tools: Flutter(State Management(BLoC, Cubit, GetX), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, Rest API HTTP, Dio, JSON, WebSocket, Unit Tests), App Store Connect, Play Console
 
 ## LANGUAGE PROFICIENCY
 
