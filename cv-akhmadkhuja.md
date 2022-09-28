@@ -1,6 +1,6 @@
 # Akhmadkhuja Ibrokhimov
 
-## Flutter Developer | Tashkent, Uzbekistan
+## Mobile Developer (Flutter) | Tashkent, Uzbekistan
 [Github](https://github.com/a-ibrkh) | [LinkedIn](https://www.linkedin.com/in/akhmadkhuja-ibrokhimov-562554237/) | [Email](axmadxojaibrohimov@gmail.com)
 
 ## EXPERIENCE
@@ -34,7 +34,8 @@ Mobile Developer(Flutter)
 
 * Programming languages: Dart, Java, C/C++
 
-* Tools: Flutter(State Management(BLoC, Cubit, GetX), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, Rest API, HTTP, Dio, JSON, WebSocket, Unit Tests), App Store Connect, Play Console
+* Tools: Flutter(State Management(BLoC, Cubit, GetX), Firebase, OOP, Clean Architecture, SOLID, Dependency Injection, Rest API, HTTP, Dio, JSON, WebSocket, Unit Tests, Method channel, App Store Connect, Play Console
+* Additional tools: Maps(Google, Yandex) 
 
 ## LANGUAGE PROFICIENCY
 
