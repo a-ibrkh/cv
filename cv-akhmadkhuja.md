@@ -5,7 +5,7 @@
 
 ## EXPERIENCE
 
-IT Solutions, January 2022 – April 2022
+#IT Solutions, November 2022 – April 2022
 
 Mobile Developer(Flutter)
 
@@ -15,8 +15,9 @@ Mobile Developer(Flutter)
 
 * Designed UI and developed Mobile Applications for 1 project and released to Store.
 
+* Released mobile application to Google Play.
 
-Udevs, April 2022 - present
+#Udevs, April 2022 - present
 
 Mobile Developer(Flutter)
 
