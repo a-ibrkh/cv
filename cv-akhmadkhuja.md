@@ -20,13 +20,13 @@ Udevs, April 2022 - present
 
 Mobile Developer(Flutter)
 
-* Developed Mobile Application for iOS, Android and Android TV on Flutter cross-platform UI Engine.
+* Participated in development of 5 Mobile Applications for iOS, Android and Android TV on Flutter.
 
 * Wrote high-quality and scalable code using GetX and BLoC design pattern.
 
-* Cooperated with backend team to find out better solutions and reach the best performance
+* Cooperated with backend and design team to find out better solutions and reach the best performance.
 
-* Developed and released mobile application for iOS and Android.
+* Released 2 mobile applications for iOS and Android.
 
 ## TECHNICAL SKILLS
 
