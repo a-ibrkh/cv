@@ -5,7 +5,7 @@
 
 ## EXPERIENCE
 
-# IT Solutions, November 2022 – April 2022
+# IT Solutions, November 2021 – April 2022
 
 Mobile Developer(Flutter)
 
