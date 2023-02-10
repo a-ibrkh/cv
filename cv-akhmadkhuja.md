@@ -29,7 +29,7 @@ Mobile Developer(Flutter)
 
 * Released 2 mobile applications for iOS and Android.
 
-# Aliftech, november 2022 - present
+# Aliftech, November 2022 - present
 
 Mobile Developer(Flutter)
 
