@@ -17,7 +17,7 @@ Mobile Developer(Flutter)
 
 * Released mobile application to Google Play.
 
-# Udevs, April 2022 - present
+# Udevs, April 2022 - November 2022
 
 Mobile Developer(Flutter)
 
@@ -28,6 +28,10 @@ Mobile Developer(Flutter)
 * Cooperated with backend and design team to find out better solutions and reach the best performance.
 
 * Released 2 mobile applications for iOS and Android.
+
+# Aliftech, november 2022 - present
+
+Mobile Developer(Flutter)
 
 ## TECHNICAL SKILLS
 
