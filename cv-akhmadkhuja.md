@@ -5,17 +5,11 @@
 
 ## EXPERIENCE
 
-# IT Solutions, November 2021 – April 2022
+# Aliftech, November 2022 - present
 
 Mobile Developer(Flutter)
 
-* Developed Mobile Application for iOS and Android on Flutter cross-platform UI Engine.
-
-* Wrote high-quality and scalable code using BLoC design pattern.
-
-* Designed UI and developed Mobile Applications for 1 project and released to Store.
-
-* Released mobile application to Google Play.
+* Working actively on cross-platform project
 
 # Udevs, April 2022 - November 2022
 
@@ -29,13 +23,22 @@ Mobile Developer(Flutter)
 
 * Released 2 mobile applications for iOS and Android.
 
-# Aliftech, November 2022 - present
+# IT Solutions, November 2021 – April 2022
 
 Mobile Developer(Flutter)
 
+* Developed Mobile Application for iOS and Android on Flutter cross-platform UI Engine.
+
+* Wrote high-quality and scalable code using BLoC design pattern.
+
+* Designed UI and developed Mobile Applications for 1 project and released to Store.
+
+* Released mobile application to Google Play.
+
+
 ## TECHNICAL SKILLS
 
-* Googling
+* Googling, GPTing
 
 * Programming languages: Dart, Java, C/C++
 
