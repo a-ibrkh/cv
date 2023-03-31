@@ -11,6 +11,8 @@ Mobile Developer(Flutter)
 
 * Working actively on cross-platform project
 
+* Cooperating with backend team to find out better solutions and reach the best performance.
+
 # Udevs, April 2022 - November 2022
 
 Mobile Developer(Flutter)
@@ -38,7 +40,7 @@ Mobile Developer(Flutter)
 
 ## TECHNICAL SKILLS
 
-* Googling, GPTing
+* Googling
 
 * Programming languages: Dart, Java, C/C++
 
@@ -53,6 +55,6 @@ Mobile Developer(Flutter)
 
 ## EDUCATION
 
-Inha University in Tashkent, 2020 – Present
+Inha University in Tashkent, 2020 – 2024
 
 BSc in Computer Science - Information and Communication Engineering
