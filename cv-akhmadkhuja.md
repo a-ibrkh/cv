@@ -9,9 +9,9 @@
 
 Mobile Developer(Flutter)
 
-* Working actively on cross-platform project
+* Working actively on cross-platform project (iOS, Android)
 
-* Cooperating with backend team to find out better solutions and reach the best performance.
+* Cooperating with backend and design team to find out better solutions and reach the best performance.
 
 # Udevs, April 2022 - November 2022
 
@@ -50,7 +50,7 @@ Mobile Developer(Flutter)
 ## LANGUAGE PROFICIENCY
 
 * Uzbek - native
-* Russian - fluent
+* Russian - 2nd native
 * English - fluent
 
 ## EDUCATION
