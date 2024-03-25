@@ -9,7 +9,7 @@
 
 Mobile Developer(Flutter)
 
-* Working actively on cross-platform project (iOS, Android)
+* Working actively on cross-platform application (iOS, Android)
 
 * Cooperating with backend and design team to find out better solutions and reach the best performance.
 
@@ -17,7 +17,7 @@ Mobile Developer(Flutter)
 
 Mobile Developer(Flutter)
 
-* Participated in development of 5 Mobile Applications for iOS, Android and Android TV on Flutter.
+* Participated in development of 4 Mobile Applications for iOS, Android and Android TV on Flutter.
 
 * Wrote high-quality and scalable code using GetX and BLoC design pattern.
 
