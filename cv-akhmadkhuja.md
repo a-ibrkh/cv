@@ -37,6 +37,13 @@ Mobile Developer(Flutter)
 
 * Released mobile application to Google Play.
 
+## RELEASED PROJECTS
+
+* [Ung Petro](https://apps.apple.com/uz/app/astoria-oil/id1596591895)
+* [UZD+](https://apps.apple.com/uz/app/uzd/id6445950833)
+* [Construction control](https://apps.apple.com/uz/app/qurilish-davlat-nazorati/id1620672364)
+* [MacBro](https://apps.apple.com/uz/app/macbro/id1612827886)
+
 
 ## TECHNICAL SKILLS
 
