@@ -5,11 +5,20 @@
 
 ## EXPERIENCE
 
-# Aliftech, November 2022 - present
+# Beeline, June 2024 - present
 
 Mobile Developer(Flutter)
 
-* Working actively on cross-platform application (iOS, Android)
+* Working actively on cross-platform media application - Music streaming (iOS, Android)
+
+* Cooperating with backend and design team to find out better solutions and reach the best performance.
+
+
+# Aliftech, November 2022 - June 2024
+
+Mobile Developer(Flutter)
+
+* Worked actively on cross-platform fintech application (iOS, Android)
 
 * Cooperating with backend and design team to find out better solutions and reach the best performance.
 
