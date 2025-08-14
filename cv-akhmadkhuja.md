@@ -29,7 +29,7 @@ Mobile Developer with 4+ years of experience delivering **cross-platform apps** 
 
 ## RELEASED PROJECTS  
 - [Ung Petro](https://apps.apple.com/uz/app/astoria-oil/id1596591895) — Fuel station locator/payment.  
-- [UZD+](https://apps.apple.com/uz/app/uzd/id6445950833) — Healthcare platform.  
+- [UZD+](https://apps.apple.com/uz/app/uzd/id6445950833) — Online TV and movies platform.  
 - [Construction Control](https://apps.apple.com/uz/app/qurilish-davlat-nazorati/id1620672364) — Government inspection.  
 - [AlifX](https://apps.apple.com/uz/app/alifx/id6480589459) — Fintech app for booking flight tickets & more.
 - [riitm](https://apps.apple.com/uz/app/riitm/id6474674254) — Music streaming app with over 20 million tracks
